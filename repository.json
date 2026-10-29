@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant App: Zigbee2MQTT",
+  "name": "Home Assistant App: Zigbee2MQTT Shelter",
   "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt-shelter",
   "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
 }
